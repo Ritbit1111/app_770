@@ -1,6 +1,4 @@
 *.csv
 Day1/
-770/
 .ipynb_*
 *.swp
-trans.py
